@@ -7,6 +7,7 @@ Measure your typing speed (WPM), accuracy, and errors with a sleek interface and
 ---
 
 ## 📸 Preview
+> ![App Screenshot](image/home-page.png)
 
 ---
 
